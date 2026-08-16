@@ -24,7 +24,7 @@ I speak Swedish and English.
 <a href="https://github.com/nordiummm" title="GitHub">
   <img alt="github" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg">
 </a>
-
+<br>
 <a href="https://nordiumm.github.io" title="Portfolio">
   <img alt="website" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg">
 </a>
