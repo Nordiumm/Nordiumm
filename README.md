@@ -68,7 +68,7 @@ Building things, learning how they work, and turning ideas into code.
 
 <br />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nordiumm&layout=compact&langs_count=8&theme=dark_github" alt="Nordiumm's most-used programming languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nordiumm&layout=compact&langs_count=8&theme=dark_github&size_weight=0.5&count_weight=0.5" alt="Nordiumm's most-used programming languages" />
 
 <br /><br />
 
