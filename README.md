@@ -44,9 +44,9 @@ Paper&nbsp; • &nbsp;Velocity&nbsp; • &nbsp;other Minecraft APIs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nordiumm&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-stats-extended.vercel.app/api?username=Nordiumm&hide_rank=true&include_all_commits=true&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nordiumm&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nordiumm&layout=compact&langs_count=8&theme=transparent" />
 
 </div>
 
