@@ -23,14 +23,6 @@ I'm also a trans girl, a gamer, and someone who loves technology and being a lit
 - Game development, gaming and Minecraft
 - Learning about cybersecurity and technology
 
-## Projects
-
-A few things I've been working on:
-
-- [\.lumi](https://github.com/Nordiumm/.lumi) — A personal AI project.
-- [Lattice](https://github.com/Nordiumm/lattice) — An architecture analysis project.
-- [Veyra](https://github.com/Nordiumm/.veyra) — A project focused on building software with a C# core.
-
 ## Languages
 
 <div align="center">
